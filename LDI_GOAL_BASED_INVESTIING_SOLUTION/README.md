@@ -3,8 +3,8 @@
 ## Project Overview
 This project, developed as part of the **LDI & GBI course at EDHEC Business School**, aims to design a customized investment solution for an individual preparing for retirement. The project implements a **solution-based approach**, focusing on meeting specific essential and aspirational goals through dynamic asset allocation.
 
-## The Case Study: Client Profile (James)
-The objective was to engineer a strategy for a 45-year-old individual ("James") with a 20-year investment horizon (retirement at age 65) and a specific wealth profile:
+## The Case Study: Client Profile
+The objective was to engineer a strategy for a 45-year-old individual with a 20-year investment horizon (retirement at age 65) and a specific wealth profile:
 
 * **Initial Wealth:** $500,000.
 * **Essential Goal (The Floor):** Secure a minimum annual income of **$40,000** (inflation-linked) for 20 years during retirement. This goal must be hedged at 100% via the Goal-Hedging Portfolio (GHP).
