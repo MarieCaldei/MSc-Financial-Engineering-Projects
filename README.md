@@ -1,6 +1,6 @@
 # MSc in Financial Engineering - Project Portfolio
 
-This repository contains a curated collection of projects developed during the **MSc in Financial Engineering at EDHEC Business School**.
+This repository contains a collection of projects developed during the **MSc in Financial Engineering at EDHEC Business School**.
 
 ## 🎓 Academic Context
 * **Institution:** EDHEC Business School
