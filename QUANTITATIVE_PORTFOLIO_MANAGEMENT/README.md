@@ -5,7 +5,8 @@ This project, developed for the **Quantitative Portfolio Management** course at 
 
 ## Key Features
 * **Mean-Variance Optimization (MVO):** Implementation of the Markowitz framework to find the efficient frontier using `cvxpy`.
-* **Black-Litterman Model:** * Calculation of equilibrium returns using market capitalization weights (CAPM).
+* **Black-Litterman Model:**
+    * Calculation of equilibrium returns using market capitalization weights (CAPM).
     * Integration of subjective views (e.g., specific performance of Tech stocks like AAPL, MSFT, NVDA).
     * Computation of the combined return vector ($\mu_{BL}$) and covariance matrix ($\Sigma_{BL}$).
 * **Comparative Analysis:** Performance and weight distribution comparison between:
