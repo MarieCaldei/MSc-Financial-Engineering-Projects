@@ -1,6 +1,6 @@
 # MSc in Financial Engineering - Project Portfolio
 
-This repository contains a curated collection of projects developed during the **MSc in Financial Engineering at EDHEC Business School**. These projects demonstrate a strong foundation in quantitative finance, stochastic modeling, and machine learning applied to asset management and derivatives pricing.
+This repository contains a curated collection of projects developed during the **MSc in Financial Engineering at EDHEC Business School**.
 
 ## 🎓 Academic Context
 * **Institution:** EDHEC Business School
@@ -14,7 +14,7 @@ This repository contains a curated collection of projects developed during the *
 ### 1. [LDI & Goal-Based Investing Solution](./LDI-Goal-Based-Investing-Solution/)
 * **Core Concept:** Engineering a customized retirement solution for a private client.
 * **Key Models:** Vasicek (Interest Rates), Heston (Stochastic Volatility), and CPPI (Dynamic Allocation).
-* **Outcome:** Designed a "Safety First" strategy hedging essential goals ($40k/year) while optimizing aspirational targets.
+* **Outcome:** Designed a "Safety First" strategy hedging essential goals ($50k/year) while optimizing aspirational targets.
 
 ### 2. [Quantitative Portfolio Optimization](./Quantitative-Portfolio-Optimization/)
 * **Core Concept:** Advanced asset allocation using the Black-Litterman framework.
@@ -33,12 +33,6 @@ This repository contains a curated collection of projects developed during the *
 
 ---
 
-## 🛠 Skills & Tools
-* **Quantitative Modeling:** Stochastic Calculus, Derivatives Pricing, Risk Management.
-* **Portfolio Engineering:** LDI, GBI, Risk Parity, Factor Investing.
-* **Programming:** Python for Finance, Algorithm Implementation from scratch.
-* **Optimization:** Convex Optimization (`cvxpy`), Numerical Analysis.
-
 ## 📫 Contact
-**Marie Caldeireiro** [LinkedIn Profile](METTRE_TON_LIEN_LINKEDIN_ICI) | [EDHEC Business School](https://www.edhec.edu)
+**Marie Caldeireiro** [LinkedIn Profile](www.linkedin.com/in/marie-caldeireiro)
 
