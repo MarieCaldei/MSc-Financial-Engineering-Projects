@@ -21,7 +21,7 @@ This repository contains a collection of projects developed during the **MSc in 
 * **Key Models:** Mean-Variance Optimization, Equilibrium Returns (CAPM), and Subjective View Integration.
 * **Outcome:** Comparison of Markowitz vs. Black-Litterman portfolios using real market data via `yfinance`.
 
- [Advanced Derivatives Pricing](./Advanced-Derivatives-Pricing/)
+ [Advanced Derivatives Pricing](./ADVANCED_DERIVATIVES_PRICING/)
 * **Core Concept:** Pricing and hedging of complex derivative instruments.
 * **Key Models:** Monte Carlo Simulations and Finite Difference Methods (FDM).
 * **Outcome:** Implementation of Greeks calculation ($\Delta, \Gamma, \mathcal{V}$) and dynamic hedging strategies.
