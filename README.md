@@ -16,7 +16,7 @@ This repository contains a collection of projects developed during the **MSc in 
 * **Key Models:** Vasicek (Interest Rates), Heston (Stochastic Volatility), and CPPI (Dynamic Allocation).
 * **Outcome:** Designed a "Safety First" strategy hedging essential goals ($50k/year) while optimizing aspirational targets.
 
- [Quantitative Portfolio Optimization](./Quantitative-Portfolio-Optimization/)
+ [Quantitative Portfolio Optimization](./QUANTITATIVE_PORTFOLIO_MANAGEMENT/)
 * **Core Concept:** Advanced asset allocation using the Black-Litterman framework.
 * **Key Models:** Mean-Variance Optimization, Equilibrium Returns (CAPM), and Subjective View Integration.
 * **Outcome:** Comparison of Markowitz vs. Black-Litterman portfolios using real market data via `yfinance`.
