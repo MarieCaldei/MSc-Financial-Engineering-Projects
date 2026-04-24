@@ -26,7 +26,7 @@ This repository contains a collection of projects developed during the **MSc in 
 * **Key Models:** Monte Carlo Simulations and Finite Difference Methods (FDM).
 * **Outcome:** Implementation of Greeks calculation ($\Delta, \Gamma, \mathcal{V}$) and dynamic hedging strategies.
 
- [Machine Learning for Financial Risk](./Machine-Learning-Financial-Risk/)
+ [Machine Learning for Financial Risk](./MACHINE_LEARNING_FINANCIAL_RISKS/)
 * **Core Concept:** Classification and non-linear regression for risk management.
 * **Key Models:** Gaussian Naive Bayes (from scratch) and Kernel Ridge Regression.
 * **Outcome:** Credit default prediction and asset return forecasting in turbulent market regimes.
