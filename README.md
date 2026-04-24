@@ -11,7 +11,7 @@ This repository contains a collection of projects developed during the **MSc in 
 
 ## 📂 Project Highlights
 
- [LDI & Goal-Based Investing Solution](./LDI-Goal-Based-Investing-Solution/)
+ [LDI & Goal-Based Investing Solution](./LDI_GOAL_BASED_INVESTING_SOLUTION/)
 * **Core Concept:** Engineering a customized retirement solution for a private client.
 * **Key Models:** Vasicek (Interest Rates), Heston (Stochastic Volatility), and CPPI (Dynamic Allocation).
 * **Outcome:** Designed a "Safety First" strategy hedging essential goals ($50k/year) while optimizing aspirational targets.
