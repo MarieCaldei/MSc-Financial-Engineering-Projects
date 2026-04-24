@@ -34,5 +34,5 @@ This repository contains a collection of projects developed during the **MSc in 
 ---
 
 ## 📫 Contact
-**Marie Caldeireiro** [LinkedIn Profile](www.linkedin.com/in/marie-caldeireiro)
+**Marie Caldeireiro** [LinkedIn Profile](https://www.linkedin.com/in/marie-caldeireiro)
 
